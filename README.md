@@ -1,2 +1,2 @@
-# alfamart
-mencoba membuat system alfamart dengan role ;ebih dari 2
+# 3second
+mencoba membuat system 3second dengan role lebih dari 2
